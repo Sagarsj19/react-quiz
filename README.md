@@ -29,3 +29,9 @@ npm start
 ## Run JSON Server
 
 npm run server
+
+## Run JSON Server
+
+If you want to learn react 
+## useReducer 
+go through this project.
